@@ -1,0 +1,8 @@
+{
+  "name": "ionic-geo-location-example",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
